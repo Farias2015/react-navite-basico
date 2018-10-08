@@ -14,3 +14,7 @@ Aplicativo simples com lista de pessoas.
 5-Trabalhando com componente 'clicável' e fazendo tratamento de erros;
 
 6-Alguns Conceitos do ES6;
+
+# EXPO/EXPO-CLI
+Fiz uso do Expo, aplicativo que renderiza o app no iPhone para testes sem uso de emulador.
+https://www.npmjs.com/package/expo
